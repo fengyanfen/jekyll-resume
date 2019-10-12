@@ -11,3 +11,4 @@ You can see a demo of the theme at: [mattcouchman.co.uk/jekyll-resume](http://ma
 Feel free to tear apart and rebuild as you wish.
 
 ![Screenshot of resume theme](https://github.com/mattcouchman/jekyll-resume/raw/master/img/screen.png)
+---
